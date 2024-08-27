@@ -8,6 +8,8 @@ public class Lab04 {
         System.out.println(2*7);
         System.out.println(2-2);
         System.out.println(10/1);
+        System.out.println("2+2");
+        System.out.println("parvati");
 
 
 
