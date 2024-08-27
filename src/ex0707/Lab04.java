@@ -5,7 +5,7 @@ public class Lab04 {
         //package->class->Main Method->statement
         System.out.println(2+2);
         System.out.println(2/2);
-        System.out.println(2*3);
+        System.out.println(2*7);
         System.out.println(2-2);
         System.out.println(10/1);
 
