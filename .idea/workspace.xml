@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47d65472-df16-4326-8962-6f9ef45fb9dc" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/ex0707/Lab08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex0707/Lab09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +37,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "parvatimore9"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;parvatimore9&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/parvatimore9/JavaProgram.git",
-    "accountId": "0a51a6ad-6883-4cb0-a8de-11e9d43a442b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/parvatimore9/JavaProgram.git&quot;,
+    &quot;accountId&quot;: &quot;0a51a6ad-6883-4cb0-a8de-11e9d43a442b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -64,6 +72,15 @@
     "Application.Lab07.executor": "Run",
     "Application.Lab08.executor": "Run",
     "Application.Lab09.executor": "Run",
+    "Application.Lab10.executor": "Run",
+    "Application.Lab11.executor": "Run",
+    "Application.Lab12.executor": "Run",
+    "Application.Lab13.executor": "Run",
+    "Application.Lab15.executor": "Run",
+    "Application.Lab16.executor": "Run",
+    "Application.Lab17.executor": "Run",
+    "Application.Lab18.executor": "Run",
+    "Application.Lab19.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -202,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724759970798</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1724760615186</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724760615186</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
