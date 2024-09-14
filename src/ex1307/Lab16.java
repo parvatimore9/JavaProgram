@@ -7,5 +7,6 @@ public class Lab16 {
         System.out.println( "Your age is "   +age);
         System.out.printf("Your age is ->%d", age);
 
+
     }
 }

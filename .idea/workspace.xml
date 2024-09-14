@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47d65472-df16-4326-8962-6f9ef45fb9dc" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex1307/Lab27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1307/Lab16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1307/Lab16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,12 @@
         <option value="Parvati &lt;parvatimore9@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -49,6 +54,9 @@
     &quot;accountId&quot;: &quot;0a51a6ad-6883-4cb0-a8de-11e9d43a442b&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ex1307/Lab20.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -63,29 +71,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab01.executor": "Run",
-    "Application.Lab02.executor": "Run",
-    "Application.Lab03.executor": "Run",
-    "Application.Lab04.executor": "Run",
-    "Application.Lab07.executor": "Run",
-    "Application.Lab08.executor": "Run",
-    "Application.Lab09.executor": "Run",
-    "Application.Lab10.executor": "Run",
-    "Application.Lab11.executor": "Run",
-    "Application.Lab12.executor": "Run",
-    "Application.Lab13.executor": "Run",
-    "Application.Lab15.executor": "Run",
-    "Application.Lab16.executor": "Run",
-    "Application.Lab17.executor": "Run",
-    "Application.Lab18.executor": "Run",
-    "Application.Lab19.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab27.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex0707.Lab02" />
@@ -227,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724760615186</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1724918204509</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724918204510</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
